@@ -1,6 +1,6 @@
 # blood_bowl_app
 
-A new Flutter project.
+This is a project that I am developing with for a College class with the intent of expanding my portfolio. This app in particular is something I have interest in as it relates to a board game that I quite enjoy but do not want to carry the rules around everywhere when I want to play.
 
 ## Getting Started
 
